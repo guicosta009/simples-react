@@ -1,1 +1,1 @@
-# simples-react
+# simple-react
